@@ -1,0 +1,15 @@
+#home {
+    background-image: url(images/home.png)
+}
+
+#comments {
+    background-color: grey
+}
+
+#Frolova {
+    padding: 10px;
+}
+
+.home {
+    font-size: 100px;
+}
