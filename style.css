@@ -1,15 +1,23 @@
 #home {
-    background-image: url(images/home.png)
+    background-image: url(images/home.png);
 }
 
 #comments {
-    background-color: grey
+    background-color: grey;
 }
 
-#Frolova {
-    padding: 10px;
+#referendum {
+    background-color: grey;
+}
+
+#news {
+    background-color: grey;
 }
 
 .home {
     font-size: 100px;
+}
+
+.menu {
+    font-size: 48px;
 }
